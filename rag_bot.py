@@ -5,7 +5,6 @@ import numpy as np
 
 from sentence_transformers import SentenceTransformer
 
-
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 OLLAMA_MODEL = "gemma4:latest"
@@ -116,46 +115,48 @@ class RAGBot:
         )
 
         few_shot_examples = """
-Q: How is HyperRelay powered?
-A:
-1. First I search for information about HyperRelay.
-2. The document states that HyperRelay uses the VoidCore energy source.
-3. Therefore the answer is VoidCore.
+        Q: Who is Aldric the Ashen Wanderer?
+        A:
+        1. First I search for information about Aldric the Ashen Wanderer.
+        2. The document states that Aldric is a mutated human trained from childhood to hunt monsters as a Foreign Wizard.
+        3. It also says he possesses superhuman reflexes and strength.
+        4. Therefore, Aldric the Ashen Wanderer is a monster hunter and Foreign Wizard with enhanced abilities.
 
-Answer: VoidCore.
+        Answer: Aldric the Ashen Wanderer is a mutated human and skilled monster hunter trained as a Foreign Wizard, known for his superhuman abilities and combat skills.
 
-Q: What is the capital of Ti'lora?
-A:
-1. First I search for information about Ti'lora.
-2. The document states that the capital is Sairon.
-3. Therefore the answer is Sairon.
+        Q: What kind of personality does Aldric the Ashen Wanderer have?
+        A:
+        1. First I locate the section describing Aldric's personality.
+        2. The document explains that he has a troubled past and a gruff demeanor.
+        3. It also says he has a deep sense of goodwill, independence, and empathy.
+        4. Therefore, Aldric is a morally complex but compassionate character.
 
-Answer: Sairon.
-"""
+        Answer: Aldric the Ashen Wanderer is portrayed as a gruff yet compassionate and fiercely independent character with strong empathy and a troubled past.
+        """
 
         system_prompt = """
-You are a RAG assistant.
-
-Rules:
-1. Answer ONLY using the provided context.
-2. If the answer is missing in the context, say: "I don't know".
-3. Always explain your reasoning step by step.
-4. After reasoning provide the final answer.
-5. Do not invent facts.
-"""
+        You are a RAG assistant.
+        
+        Rules:
+        1. Answer ONLY using the provided context.
+        2. If the answer is missing in the context, say: "I don't know".
+        3. Always explain your reasoning step by step.
+        4. After reasoning provide the final answer.
+        5. Do not invent facts.
+        """
 
         prompt = f"""
-{system_prompt}
-
-Context:
-{context_text}
-
-Examples:
-{few_shot_examples}
-
-Q: {query}
-A:
-"""
+        {system_prompt}
+        
+        Context:
+        {context_text}
+        
+        Examples:
+        {few_shot_examples}
+        
+        Q: {query}
+        A:
+        """
 
         return prompt
 
