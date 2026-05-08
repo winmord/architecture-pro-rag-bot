@@ -1,15 +1,18 @@
+import os
 import pickle
 import faiss
 import requests
 import numpy as np
-import re
 
 from sentence_transformers import SentenceTransformer
 
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 OLLAMA_MODEL = "gemma4:latest"
-OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_URL = os.getenv(
+    "OLLAMA_URL",
+    "http://localhost:11434/api/generate"
+)
 
 INDEX_PATH = "faiss_index/index.faiss"
 CHUNKS_PATH = "faiss_index/index.pkl"
