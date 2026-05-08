@@ -1,0 +1,32 @@
+Q: Какие у Morwen волосы?
+EXPECTED: У Морвен кудрявые черные волосы.
+
+Q: Кто тренировал Rorik the Bitter Hound?
+EXPECTED: Rorik the Bitter Hound был обучен Old Torben the Kestrel. Кроме того, в контексте упоминается, что он позже тренировался с Torvin Oak-Scar и Old Torben the Kestrel.
+
+Q: Где Rowena of the Copper Grove встретила Aldric?
+EXPECTED: Rowena of the Copper Grove встретила Aldric в The Gilded Chase of Thornwood.
+
+Q: Где находится Dunmire?
+EXPECTED: Dunmire — это прибрежный городок в The Greydeep.
+
+Q: Где расположен Hold Grimstone?
+EXPECTED: Hold Grimstone расположен в The Ashen Peaks of The Thorn Marches.
+
+Q: Назови общую численность участников в The Second Bloodshed at Ashenford?
+EXPECTED: Общая численность участников в The Second Bloodshed at Ashenford составляла сто тысяч человек. В битве также участвовали двадцать два мага из разных фракций.
+
+Q: Где расположен Hold Grimstone?
+EXPECTED: Hold Grimstone расположен в The Ashen Peaks of The Thorn Marches.
+
+Q: Кто был императором до Sovereign Valerius Ironclaw?
+EXPECTED: I don't know
+
+Q: Когда появился The Foreign Wizard Iron Ward?
+EXPECTED: I don't know
+
+Q: Кто основал Hold Grimstone?
+EXPECTED: I don't know
+
+Q: Когда родился Aldric the Ashen Wanderer?
+EXPECTED: I don't know
