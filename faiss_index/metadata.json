@@ -68,6 +68,10 @@
     "start_index": 427
   },
   {
+    "source": "Evil.txt",
+    "start_index": 0
+  },
+  {
     "source": "Geralt of Rivia.txt",
     "start_index": 0
   },
