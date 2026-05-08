@@ -1,0 +1,52 @@
+Вы: Когда родился Aldric the Ashen Wanderer?
+
+Бот:
+
+1. First I search for information regarding the birth date of Aldric the Ashen Wanderer.
+2. The document states that he was born into a family of Foreign Wizards in 1211.
+3. Therefore, Aldric the Ashen Wanderer was born in 1211.
+
+Answer: Aldric the Ashen Wanderer родился в 1211 году.
+
+Вы: Что такое The Debt of the Unlooked-For?
+
+Бот:
+
+1. Я ищу определение концепции "The Debt of the Unlooked-For" в предоставленном контексте.
+2. Контекст [Фрагмент 3] определяет эту концепцию как средневековую практику, которая насчитывает века, насчитывая самые ранние времена человечества.
+3. Согласно этой практике, когда один человек спасает другого, с спасаемого ожидают «дар» (boon) — благословение, природа которого неизвестна обеим сторонам.
+4. Это обязательство часто включает предоставление первородного ребенка, который был зачат или рожден без знания отца, в качестве платы спасателю.
+5. В лоре Foreign Wizard этот принцип иллюстрируется примерами, такими как подарки, сделанные Сovereign Aldric of the Coral Shore и Aldric the Ashen Wanderer.
+
+Answer: The Debt of the Unlooked-For — это средневековая практика, восходящая к самым ранним временам человечества. Она диктует, что когда один человек спасает другого, спасаемый должен предложить дар, природа которого неизвестна обеим сторонам. Это обязательство часто принимает форму предоставления первородного ребенка, зачатого или рожденного без ведома отца, в качестве возмещения услуги. В лоре Foreign Wizard эта концепция тесно связана с судьбой и предполагает серьезные последствия, если ей пренебрегать.
+
+Вы: Где Rowena of the Copper Grove встретила Aldric?
+
+Бот:
+
+1. Сначала я ищу информацию о месте встречи Rowena of the Copper Grove и Aldric the Ashen Wanderer.
+2. В [Фрагмент 1] указано: "Rowena has a long history with Aldric, having been one of his closest friends since their meeting at The Gilded Chase of Thornwood..."
+3. Таким образом, согласно предоставленному контексту, они встретились в The Gilded Chase of Thornwood.
+
+Answer: Rowena of the Copper Grove встретила Aldric в The Gilded Chase of Thornwood.
+
+Вы: Что такое The Prime Strand?
+
+Бот:
+
+1. First I search for information defining The Prime Strand (Что такое The Prime Strand?).
+2. The document states that the concept of The Prime Strand originates from the Shrouded Weavers, who created a genetic program meant to produce an exceptionally gifted child, called the "Heir of the Prime Strand".
+3. The text further describes the blood's nature, noting that it is debated: some view it as a rare inherited talent granting control over time and space, while others consider it a curse that passes down death and destruction.
+
+Answer: The Prime Strand — это концепция, которая возникла от Шарованых Ткачей, создавших генетическую программу для получения исключительно одаренного ребенка. Наследники этой крови могут унаследовать этот потенциал. Однако природа этой крови является предметом споров: некоторые считают ее редким талантом, дарующим контроль над временем и пространством, а другие — проклятием, несущим смерть и разрушение.
+
+Вы: Что такое the Whisperings?
+
+Бот:
+
+1. First I search for information defining "the Whisperings" in the provided context.
+2. The context states that in the Foreign Wizard universe, magic, or 'the Whisperings', is a multifaceted and powerful force.
+3. The context further explains that magic stems from nature and includes elements such as fire, water, earth, air, mind, and divination.
+4. Therefore, I formulate the answer based on this definition.
+
+Answer: В вселенной Иностранных Волшебников, магия, или 'Шепот' ('the Whisperings'), является многогранной и мощной силой, которая может быть использована различными практиками, включая Иностранных Волшебников, Шептунов, Корневых Говорящих, Колокольчиков, Знающих Людей и Роуену Медной Рощи. Магия происходит от природы и включает такие элементы, как огонь, вода, земля, воздух, разум и гадание.

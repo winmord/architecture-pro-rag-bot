@@ -1,0 +1,736 @@
+{
+  "objects": [
+    {
+      "Witcher": "Foreign Wizard"
+    },
+    {
+      "Geralt of Rivia": "Aldric the Ashen Wanderer"
+    },
+    {
+      "Yennefer of Vengerberg": "Morwen of the Obsidian Falls"
+    },
+    {
+      "Ciri": "Elara of the Shifting Sands"
+    },
+    {
+      "Vesemir": "Old Torben the Kestrel"
+    },
+    {
+      "Triss Merigold": "Rowena of the Copper Grove"
+    },
+    {
+      "Emhyr var Emreis": "Sovereign Valerius Ironclaw"
+    },
+    {
+      "Eredin Bréacc Glas": "Maeloch the Winter Shard"
+    },
+    {
+      "Zoltan Chivay": "Bram Copperkeg"
+    },
+    {
+      "Lambert": "Rorik the Bitter Hound"
+    },
+    {
+      "Eskel": "Torvin Oak-Scar"
+    },
+    {
+      "The Lady of the Lake": "The Veiled Mother of the Mere"
+    },
+    {
+      "The Rivian Pogrom": "The Ashford Purge"
+    },
+    {
+      "Gwent": "Battlement: The Stone Game"
+    },
+    {
+      "Medallion": "The Iron Ward"
+    },
+    {
+      "The Sword of Destiny": "The Blade of Broken Seals"
+    },
+    {
+      "Kaer Morhen": "Hold Grimstone"
+    },
+    {
+      "The Conjunction of the Spheres": "The Weave-Collapse"
+    },
+    {
+      "Blaviken": "Dunmire"
+    },
+    {
+      "Thanedd Coup": "The Veridian Conspiracy"
+    },
+    {
+      "The Tower of the Swallow": "The Spire of Falling Stars"
+    },
+    {
+      "Battle of Sodden Hill": "The Slaughter at Cinder Ridge"
+    },
+    {
+      "Potion bases": "Tincture roots and vitriol salts"
+    },
+    {
+      "Villentretenmerth": "Ignis the Golden Coil"
+    },
+    {
+      "Tor Lara": "The Needle of Aether"
+    },
+    {
+      "Philippa Eilhart": "Lady Sevren the Goshawk"
+    },
+    {
+      "Emiel Regis Rohellec Terzieff-Godefroy": "Kasimir the Gentle Shade"
+    },
+    {
+      "Cahir Mawr Dyffryn aep Ceallach": "Raven of the Dust Road"
+    },
+    {
+      "Elder Blood": "The Prime Strand"
+    },
+    {
+      "Law of Surprise": "The Debt of the Unlooked-For"
+    },
+    {
+      "White Frost": "The Still Winter"
+    },
+    {
+      "Nilfgaard": "The Iron Dominion"
+    },
+    {
+      "Coehoorn": "Marshal Blackthorn"
+    },
+    {
+      "Yoël Grethen": "Sanna of the Mourning Veil"
+    },
+    {
+      "Belleteyn": "The Lanterns' Eve"
+    },
+    {
+      "Sodden": "Ashenford"
+    },
+    {
+      "Lower Sodden": "Lower Ashenford"
+    },
+    {
+      "Northern Realms": "The Crownwild Compact"
+    },
+    {
+      "Temeria": "Thornwood"
+    },
+    {
+      "Temerian Army": "Thornwood Host"
+    },
+    {
+      "Kaedwen": "Stormwatch"
+    },
+    {
+      "Kaedwenian Army": "Stormwatch Legion"
+    },
+    {
+      "Redania": "Northmarch"
+    },
+    {
+      "Royal Redanian Army": "Northmarch Banner"
+    },
+    {
+      "Aedirn": "Greywater"
+    },
+    {
+      "Aedirnian Army": "Greywater Phalanx"
+    },
+    {
+      "Skellige": "The Iron Isles"
+    },
+    {
+      "Skellige reinforcements": "Ironbreakers"
+    },
+    {
+      "Brotherhood of Sorcerers": "The Ashen Conclave"
+    },
+    {
+      "First War with Nilfgaard": "First March of the Iron Dominion"
+    },
+    {
+      "Second battle of Sodden": "Second Bloodshed at Ashenford"
+    },
+    {
+      "Mage Hill": "The Weavers' Knoll"
+    },
+    {
+      "Kite Hill": "The Mournful Rise"
+    },
+    {
+      "Hill of the Fourteen": "The Hill of the Silent Quorum"
+    },
+    {
+      "Arcsea": "The Greydeep"
+    },
+    {
+      "King Audoen": "King Torvald the Stony"
+    },
+    {
+      "'Butchering' period": "The Reaping Years"
+    },
+    {
+      "Caldemeyn": "Aldwyn the Elder"
+    },
+    {
+      "Irion": "Master Krethor"
+    },
+    {
+      "Stregobor": "Helvet the Shrouded"
+    },
+    {
+      "Libushe": "Mira of the Salt Winds"
+    },
+    {
+      "Marilka": "Petra Cobblefield"
+    },
+    {
+      "Carrypebble": "Grim Stonefoot"
+    },
+    {
+      "Borg": "Fendrel the Scarred"
+    },
+    {
+      "Karelka": "Lisek the Sparrow"
+    },
+    {
+      "Dziega": "Old Yaromir"
+    },
+    {
+      "werebbubb": "mire-kin"
+    },
+    {
+      "Irion's tower": "Krethor's Needle"
+    },
+    {
+      "Golden Court": "The Gilded Yard"
+    },
+    {
+      "The Tuna Fish": "The Silver Herring"
+    },
+    {
+      "Marketplace": "The Hollow Circle"
+    },
+    {
+      "Huntington Manor": "Greyfen Hall"
+    },
+    {
+      "The Witcher game": "The Foreign Wizard's Chronicle"
+    },
+    {
+      "Cirilla Fiona Elen Riannon": "Elara of the Shifting Sands"
+    },
+    {
+      "Wild Hunt": "The Phantom Cavalcade"
+    },
+    {
+      "Velen": "The Blighted Moor"
+    },
+    {
+      "Crones": "The Weeping Sisters"
+    },
+    {
+      "Lodge": "The Gilded Circle"
+    },
+    {
+      "Fate's tangled fetters": "the Serpent's Knot"
+    },
+    {
+      "elven mages": "the Shrouded Weavers"
+    },
+    {
+      "Child of Elder Blood": "Heir of the Prime Strand"
+    },
+    {
+      "Lara Dorren": "Lira of the Silver Bough"
+    },
+    {
+      "Alvin": "Corvin Stonehand"
+    },
+    {
+      "Jacques de Aldersberg": "Kaspar of the Iron Dial"
+    },
+    {
+      "Pavetta": "Rosalind of the Foaming Wave"
+    },
+    {
+      "Riannon": "Brynhild of the Raven Crest"
+    },
+    {
+      "Adalia": "Isolde of the Thorn Grove"
+    },
+    {
+      "Amavet": "Velimir the Silent"
+    },
+    {
+      "Muriel": "Sabine Shallowford"
+    },
+    {
+      "Corbett": "Dermot Coal-eye"
+    },
+    {
+      "Dagorad": "Stellan Grim-brow"
+    },
+    {
+      "Falka": "Mara of the Cinder Crown"
+    },
+    {
+      "Fiona": "Yvaine of the Pale Tarn"
+    },
+    {
+      "activator gene": "kindled mark"
+    },
+    {
+      "latent gene": "dormant thread"
+    },
+    {
+      "Deithwen Addan yn Carn aep Morvudd": "Ironclaw's Bane, the Gilded Tyrant"
+    },
+    {
+      "Andrzej Sapkowski": "Marten Blackwood"
+    },
+    {
+      "The Witcher 3: Wild Hunt": "The Third Chronicle: Phantom Cavalcade"
+    },
+    {
+      "Regis": "Kasimir the Gentle Shade"
+    },
+    {
+      "Godefroy": "Kasimir"
+    },
+    {
+      "Syanna": "Lysette of the Broken Wheel"
+    },
+    {
+      "My Evening with a Vampire": "A Candlelit Confession with a Shade"
+    },
+    {
+      "gwent card": "Battlement card"
+    },
+    {
+      "Blood Run": "The Crimson Gauntlet"
+    },
+    {
+      "La Cage au Fou": "The Madman's Gilded Cage"
+    },
+    {
+      "Tesham Mutna": "The Crimson Cathedral of Teshan Mor"
+    },
+    {
+      "Voynich Manuscript": "The Codex of Silent Tongues"
+    },
+    {
+      "lab": "chamber of distillations"
+    },
+    {
+      "King of the Wild Hunt": "Chieftain of the Phantom Cavalcade"
+    },
+    {
+      "Red Riders": "The Crimson Reapers"
+    },
+    {
+      "King Auberon Muircetach": "Sovereign Oriniel Everdew"
+    },
+    {
+      "Gates of the Worlds": "The Thresholds of the Sundered Sky"
+    },
+    {
+      "Aen Elle": "The Shrouded Folk"
+    },
+    {
+      "Dandelion": "Robin Goldlark"
+    },
+    {
+      "King Foltest": "Sovereign Aldwyn the Golden"
+    },
+    {
+      "Scoia'tael": "The Briar Uprising"
+    },
+    {
+      "Man of Glass": "Lord of the Gilded Mirror"
+    },
+    {
+      "Blood and Wine expansion": "Crimson Vintage"
+    },
+    {
+      "The Witcher 2: Assassins of Kings": "The Second Chronicle: Regicide"
+    },
+    {
+      "dwarves": "stonefolk"
+    },
+    {
+      "Nilfgaardian Empire": "The Iron Dominion"
+    },
+    {
+      "Blue Mountains": "The Ashen Peaks"
+    },
+    {
+      "Hertch": "The Thorn Marches"
+    },
+    {
+      "the Trials and Changes": "the Rites of Enduring and the Forging"
+    },
+    {
+      "pogrom": "the Purge of the Stone Halls"
+    },
+    {
+      "anti-witcher sentiment": "the Tide of Rust"
+    },
+    {
+      "School of the Wolf": "Order of the Iron Fangs"
+    },
+    {
+      "Trial of the Medallion": "The Ordeal of the Iron Ward"
+    },
+    {
+      "Keira Metz": "Sabine of the Amber Veil"
+    },
+    {
+      "King Roegner of Cintra": "Sovereign Aldric of the Coral Shore"
+    },
+    {
+      "Cintra": "The Coral Shore"
+    },
+    {
+      "Urcheon of Erlenwald": "Grimm of the Thistlewood"
+    },
+    {
+      "Duny": "Urchon the Hedge Knight"
+    },
+    {
+      "Yurga": "Gorath the Caravan Master"
+    },
+    {
+      "Zatret Voruta": "Kaelen of the Sunken Bell"
+    },
+    {
+      "Mad Deï": "Old Yrsa the Bone-Setter"
+    },
+    {
+      "Price of Neutrality": "The Ledger of the Unbound"
+    },
+    {
+      "Deidre Ademeyn": "Mira of the Broken Stave"
+    },
+    {
+      "Eskel's Unexpected Child": "Torvin's Unlooked-For Ward"
+    },
+    {
+      "Judges 11:30": "the Lament of the Hollow Crown 11:30"
+    },
+    {
+      "Jephthah": "Joram of the Dust Road"
+    },
+    {
+      "the Art": "the Whisperings"
+    },
+    {
+      "Mages": "the Whisperers"
+    },
+    {
+      "Druids": "the Root-Speakers"
+    },
+    {
+      "Priests": "the Bell-Keepers"
+    },
+    {
+      "Aen Saevherne": "the Knowing Folk"
+    },
+    {
+      "Goetia practitioners": "Shadow-Summoners"
+    },
+    {
+      "Necromancers": "Bone-Whisperers"
+    },
+    {
+      "The Witcher medallion": "The Iron Ward"
+    },
+    {
+      "Henselt's Medallion": "Sovereign Aldwyn's Iron Ward"
+    },
+    {
+      "Philippa Eilhart's Medallion": "Lady Sevren's Iron Ward"
+    },
+    {
+      "Berengar's Medallion": "Torben the Elder's Iron Ward"
+    },
+    {
+      "King Vizimir II": "Sovereign Valdemar the Keen"
+    },
+    {
+      "Demavend of Aedirn": "Sovereign Marik of Greywater"
+    },
+    {
+      "Foltest of Temeria": "Sovereign Aldwyn of Thornwood"
+    },
+    {
+      "Lodge of Sorceresses": "The Gilded Circle"
+    },
+    {
+      "Radovid": "Sovereign Radomir the Stern"
+    },
+    {
+      "Cynthia": "Mira of the Silver Quill"
+    },
+    {
+      "Skalen Burdon": "Grenn Oak-Shoulder"
+    },
+    {
+      "Marti Södergren": "Helga Copper-Voice"
+    },
+    {
+      "Sabrina Glevissig": "Katrin of the Ashen Shawl"
+    },
+    {
+      "Sigismund Dijkstra": "Janus the Iron Grip"
+    },
+    {
+      "Yarpen Zigrin": "Gunnar Stone-Brow"
+    },
+    {
+      "Blindingly Obvious": "The Owl's Gambit"
+    },
+    {
+      "Final Preparations": "The Last Turning of the Wheel"
+    },
+    {
+      "Reason of State": "The Gilded Throne's Fall"
+    },
+    {
+      "Time of Contempt": "The Season of Scorn"
+    },
+    {
+      "Nilfgaardian Lemon": "Iron Dominion Sour"
+    },
+    {
+      "Redanian Herbal": "Northmarch Verdant"
+    },
+    {
+      "Soldier's Hooch": "March-warden's Gut-Warm"
+    },
+    {
+      "Temerian Rye": "Thornwood Amber"
+    },
+    {
+      "Cherry Spirit Cordial": "Bloodstone Draught"
+    },
+    {
+      "Dwarven Spirit": "Stonefolk Ember"
+    },
+    {
+      "Plum Cordial": "Shadow-berry Liqueur"
+    },
+    {
+      "Temerian spirit": "Thornwood White"
+    },
+    {
+      "Zerrikanian spirit": "Sun-Kissed Fire"
+    },
+    {
+      "Alcohest": "Aether-Heart Essence"
+    },
+    {
+      "Azoth": "Quicksilver Bane"
+    },
+    {
+      "Mandrake cordial": "Root-Weaver's Nectar"
+    },
+    {
+      "Wormwood spirit": "Bitter Warden"
+    },
+    {
+      "Wyvern blood spirit": "Scale-Wort Venom"
+    },
+    {
+      "White Gull": "The Pale Shearwater"
+    },
+    {
+      "graveirs": "grave-wraiths"
+    },
+    {
+      "Toussaint": "The Sun-Drenched Vale"
+    },
+    {
+      "Silverton": "Palebrook"
+    },
+    {
+      "Condwiramurs": "Sylwen of the Dreaming Veil"
+    },
+    {
+      "Miracle at Brenna": "The Mercy at Stonebridge"
+    },
+    {
+      "Brenna": "Stonebridge"
+    },
+    {
+      "Northern alliance": "The Crownwild Compact"
+    },
+    {
+      "Vilgefortz": "Lord Malachar the Broken Star"
+    },
+    {
+      "Leo Bonhart": "Corvin Black-Crow"
+    },
+    {
+      "Rivia": "Ashford"
+    },
+    {
+      "Thane Cahir": "Cairn of the Copper Cask"
+    },
+    {
+      "Gaspard": "Rennic the Ash-Brow"
+    },
+    {
+      "Brokilon": "The Verdant Labyrinth"
+    },
+    {
+      "Eithné": "Mother Thorne of the Root-Throne"
+    },
+    {
+      "Freixenet": "Corvin Bramblewood"
+    },
+    {
+      "Prince Kistrin of Verden": "Prince Orin of the Salt Marshes"
+    },
+    {
+      "Verden": "The Salt Marshes"
+    },
+    {
+      "Braenn": "Syltha of the Silver Birch"
+    },
+    {
+      "Duén Canell": "The Hornwood Dell"
+    },
+    {
+      "Mousesack": "Ermir the Hedge-Wanderer"
+    },
+    {
+      "Vysogota": "Old Bromir of the Sinking Mire"
+    },
+    {
+      "Avallac'h": "Elandor the Silver-Tongued"
+    },
+    {
+      "Garstang Palace": "Cinderhall Keep"
+    },
+    {
+      "Thanedd Island": "The Veridian Isle"
+    },
+    {
+      "Aen Seidhe": "The Root-Shrouded Folk"
+    },
+    {
+      "Tor Zireael": "The Spire of the Swallow's Shadow"
+    },
+    {
+      "Korath desert": "The Ashen Maw"
+    },
+    {
+      "Maribor": "Copperhold"
+    },
+    {
+      "Royal Hunt competition in Vizima": "The Gilded Chase of Thornwood"
+    },
+    {
+      "Vizima": "Thornwood"
+    },
+    {
+      "Wyszomir": "Torben"
+    },
+    {
+      "Borch Three Jackdaws": "Corvin of the Ashen Feathers"
+    },
+    {
+      "Zerrikin": "The Sun-Scorched Steppe"
+    },
+    {
+      "Téa": "Sylvi of the Copper Veil"
+    },
+    {
+      "Véa": "Yrsa of the Iron Cord"
+    },
+    {
+      "Prince Niedamir": "Prince Radomir of the Stone March"
+    },
+    {
+      "Barefield": "The Scorched Hollow"
+    },
+    {
+      "Sir Eyck": "Ser Aldric of the Ivory Shield"
+    },
+    {
+      "Sheepbagger": "Grimm the Wool-Monger"
+    },
+    {
+      "Saesenthessis": "Emberlyn the Golden Dawn"
+    },
+    {
+      "Ithlinne": "Sylwen the Seer"
+    },
+    {
+      "Nimue": "The Veiled Watcher"
+    },
+    {
+      "Fimbulwinter": "The Everfrost"
+    },
+    {
+      "Ragnarök": "The Sundering of the Last Hearth"
+    },
+    {
+      "Witcher Signs": "The Iron Runes"
+    },
+    {
+      "Signs": "Runes"
+    },
+    {
+      "Hierarch Square": "The Hierophant's Circle"
+    },
+    {
+      "The Path of Warriors": "The Trail of Broken Blades"
+    },
+    {
+      "The Tower Outta Nowheres": "The Spire of Sudden Shadows"
+    },
+    {
+      "Aard": "The Push of Emptiness"
+    },
+    {
+      "Igni": "The Breath of Embers"
+    },
+    {
+      "Axii": "The Whisper of Still Minds"
+    },
+    {
+      "Trial of the Grasses": "The Rite of Thorns"
+    },
+    {
+      "Yennefer von Fürstenburg": "Morwen of the Obsidian Falls"
+    },
+    {
+      "Aretuza": "The Spire of Tides"
+    },
+    {
+      "Archi mistress Tissaia de Vries": "Grandweaver Seraphine of the Silver Thread"
+    },
+    {
+      "Curse of Crows": "The Raven's Due"
+    },
+    {
+      "Killing Monsters": "The Slayer's Oath"
+    },
+    {
+      "Second Nilfgaard War": "Second March of The Iron Dominion"
+    },
+    {
+      "Field Marshal Windbag": "General Fluster the Gilded Caw"
+    },
+    {
+      "Second Northern War": "Second Crownwild Compact Uprising"
+    },
+    {
+      "Eudora": "Sabine of the Golden Locks"
+    }
+  ]
+}
